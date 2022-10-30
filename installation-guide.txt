@@ -1,0 +1,12 @@
+********modules u have to install ******
+
+pip install tk 
+pip install pillow
+pip install SpeechRecognition 
+pip install pipwin
+pipwin refresh
+pipwin install pyaudio
+pip install mutagen
+
+go to 'main' folder in cmd and run index.py
+
